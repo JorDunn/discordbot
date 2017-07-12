@@ -102,3 +102,6 @@ ENV/
 
 # config files
 bot.json
+
+# PyCharm
+.idea/
